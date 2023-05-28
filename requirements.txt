@@ -9,3 +9,4 @@ pytest-django==4.5.2
 django-cors-headers==3.11.0
 gunicorn
 PyMySQL
+dj_database_url
