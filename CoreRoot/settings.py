@@ -83,16 +83,16 @@ WSGI_APPLICATION = 'CoreRoot.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'codenxdm_techietoxpressdb',
-        'USER':'codenxdm_techietoxpressuser',
-        'PASSWORD':'Kelechi1999!',
-        'PORT':'3306',
-        'HOST':'localhost'
-    }
-}
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.mysql',
+#         'NAME': 'codenxdm_techietoxpressdb',
+#         'USER':'codenxdm_techietoxpressuser',
+#         'PASSWORD':'Kelechi1999!',
+#         'PORT':'3306',
+#         'HOST':'localhost'
+#     }
+# }
 
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
